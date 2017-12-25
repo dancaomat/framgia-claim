@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.binding_1.0.3.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.bundle.osgi.core_1.0.1.v200803070100.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.bundle.osgi.doc_1.0.0.v200801251000.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.bundle.osgi.extender_1.0.1.v200803070100.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.bundle.osgi.io_1.0.1.v200803070100.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.bundle.spring.doc_2.5.1.v200801020919.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.bundle.spring_2.5.2.v200803070100.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.ajdt.source_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.ajdt.ui.visualiser_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.ajdt.ui.xref_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.aop.core_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.aop.mylyn_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.aop.source_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.aop.ui.matcher_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.aop.ui_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.beans.core_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.beans.mylyn_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.beans.osgibridge_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.beans.ui.editor_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.beans.ui.graph_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.beans.ui.refactoring_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.beans.ui.search_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.beans.ui_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.core_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.doc_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.javaconfig.core_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.javaconfig.source_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.javaconfig.ui_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.mylyn.source_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.mylyn_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.osgi.source_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.osgi.targetdefinition_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.osgi_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.source_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.ui_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.webflow.core_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.webflow.mylyn_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.webflow.source_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.webflow.ui.editor_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.webflow.ui.graph_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse.webflow.ui_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.ide.eclipse_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.javaconfig_1.0.0.m3_v200707150600.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.osgi.backport.util.concurrent_3.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.osgi.source_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.source_2.0.4.v200803111444.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.webflow.doc_1.0.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JavaWeb_JSP/Spring Plugin/plugin/org.springframework.webflow_1.0.3.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre-9.0.1">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
